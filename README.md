@@ -11,3 +11,5 @@ Code is separated into different folders. The code that needs to be run is Pytho
 3. Finally, to create graphs and tables: run Results_prep.py.
 
 All model results will be stored in Results folder. Tables and Graphs will be in Graphs_and_Tables folder. 
+
+GitHub repo: https://github.com/edgarakopyan/Assessment-of-Machine-Learning-models-in-Economic-Research

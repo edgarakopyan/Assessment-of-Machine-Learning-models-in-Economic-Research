@@ -13,7 +13,7 @@ URL: https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/ganite
 
 ## How to Run 
 
-Code is separated into different folders. The code that needs to be run is Python code, R scripts are used within Python files. As a prelimiary run Install_Required_Packages.R file in Rstudio to make sure that all R packages are installed and install packages from requirements.txt file. 
+Code is separated into different folders. The code that needs to be run is Python code, R scripts are used within Python files. As a prelimiary run Install_Required_Packages.R file from R files folder in Rstudio to make sure that all R packages are installed and install packages from requirements.txt file. 
 
 To recreate main results from the paper proceed with following steps:
 
